@@ -46,7 +46,7 @@ public class Sudoku {
     private void createFields(String[] fieldvals){
 
         /*
-        TODO: Remove Hardcoding
+        TODO: Remove Hardcoding + Modularity + Cleaning
          */
 
         /*
