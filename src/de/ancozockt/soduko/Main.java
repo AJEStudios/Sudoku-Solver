@@ -13,6 +13,9 @@ public class Main {
         int height = gd.getDisplayMode().getHeight();
 
         System.out.println(width + "x" + height);
+        /*
+        TODO: Work with width and height of the Screen
+         */
         new Interface();
     }
 }

@@ -32,6 +32,10 @@ public class Interface implements ActionListener {
 
                 Line2D L2 = new Line2D.Double(35, 325, 520, 325);
                 graphics2D.draw(L2);
+
+                /*
+                TODO: Fix Line Position or add Spaces
+                 */
                 /*
                 Line2D H1 = new Line2D.Float(30, 217, 515, 217);
                 Line2D H2 = new Line2D.Float(30, 382, 515, 382);

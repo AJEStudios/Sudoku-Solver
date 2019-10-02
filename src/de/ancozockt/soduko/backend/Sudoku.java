@@ -46,6 +46,10 @@ public class Sudoku {
     private void createFields(String[] fieldvals){
 
         /*
+        TODO: Remove Hardcoding
+         */
+
+        /*
             Corners
          */
 
