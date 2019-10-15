@@ -2,6 +2,7 @@ package de.ancozockt.soduko.backend.classes;
 
 import java.util.ArrayList;
 
+//This is a corner
 public class SudokuCorner {
 
     private ArrayList<SudokuField> fields;
